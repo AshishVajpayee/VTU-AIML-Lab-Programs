@@ -24,5 +24,9 @@
 - [Click here for AO* Algorithm(Execute on your Jupyter Notebook or any other IDE).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/AIML1and2.ipynb)
 - [AO* star Algorithm for Reference](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/AIML1and2.ipynb)
 
+### 3. Implement candidate Elimination algorithm.
+<!-- BLOG-POST-LIST:START -->
+- [Candidate Elimination Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/candidateElimination/CandidateElimination.md)
+
 
 
