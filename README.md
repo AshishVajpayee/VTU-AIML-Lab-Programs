@@ -16,16 +16,17 @@
 # Programs List:
 ### 1. Implement A* Search algorithm.
 <!-- BLOG-POST-LIST:START -->
-- [Click here for A* Algorithm(Execute on your Jupyter Notebook or any other IDE).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/AIML1and2.ipynb)
-- [A* star Algorithm for Reference](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/AIML1and2.md)
+- [Click here for A* Algorithm(Execute on your Jupyter Notebook or any other IDE).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/AstarAlgorithmLab1/AstarAlgorithm.ipynb)
+- [A* star Algorithm for Reference](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/AstarAlgorithmLab1/AstarAlgorithm.md)
 
 ### 2. Implement AO* Search algorithm.
 <!-- BLOG-POST-LIST:START -->
-- [Click here for AO* Algorithm(Execute on your Jupyter Notebook or any other IDE).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/AIML1and2.ipynb)
-- [AO* star Algorithm for Reference](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/AIML1and2.md)
+- [Click here for AO* Algorithm(Execute on your Jupyter Notebook or any other IDE).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/AOstarAlgorithmLab2/AOstarAlgorithm.ipynb)
+- [AO* star Algorithm for Reference](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/AOstarAlgorithmLab2/AOstarAlgorithm.md)
 
 ### 3. Implement candidate Elimination algorithm.
 <!-- BLOG-POST-LIST:START -->
+- [Click here for Candidate Elimination Algorithm).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/candidateElimination/CandidateElimination.ipynb)
 - [Candidate Elimination Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/candidateElimination/CandidateElimination.md)
 
 ### 4. Implement ID3 algorithm.
