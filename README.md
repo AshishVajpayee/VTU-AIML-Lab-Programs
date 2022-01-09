@@ -30,7 +30,18 @@
 
 ### 4. Implement ID3 algorithm.
 <!-- BLOG-POST-LIST:START -->
+- [Click here for ID3 Algorithm(Execute on your Jupyter Notebook or any IDE).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/ID3/ID3%20Algorithm.ipynb)
 - [ID3 Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/ID3/ID3%20Algorithm.md)
+
+### 5. Backpropagation Algorithm.
+<!-- BLOG-POST-LIST:START -->
+- [Click here for Backpropagation Algorithm](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/BackPropagationLab4/Backpropagation.ipynb)
+- [ID3 Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/BackPropagationLab4/Backpropagation.md)
+
+### 6. Naive Bayesian Classifier Algorithm.
+<!-- BLOG-POST-LIST:START -->
+- [Click here for Backpropagation Algorithm](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/BackPropagationLab4/Backpropagation.ipynb)
+- [ID3 Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/BackPropagationLab4/Backpropagation.md)
 
 
 
