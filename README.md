@@ -26,13 +26,13 @@
 
 ### 3. Implement candidate Elimination algorithm.
 <!-- BLOG-POST-LIST:START -->
-- [Click here for Candidate Elimination Algorithm).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/candidateElimination/CandidateElimination.ipynb)
-- [Candidate Elimination Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/candidateElimination/CandidateElimination.md)
+- [Click here for Candidate Elimination Algorithm).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/candidateEliminationLab3/CandidateElimination.ipynb)
+- [Candidate Elimination Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/candidateEliminationLab3/CandidateElimination.md)
 
 ### 4. Implement ID3 algorithm.
 <!-- BLOG-POST-LIST:START -->
-- [Click here for ID3 Algorithm(Execute on your Jupyter Notebook or any IDE).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/ID3/ID3%20Algorithm.ipynb)
-- [ID3 Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/ID3/ID3%20Algorithm.md)
+- [Click here for ID3 Algorithm(Execute on your Jupyter Notebook or any IDE).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/ID3Lab4/ID3%20Algorithm.ipynb)
+- [ID3 Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/ID3Lab4/ID3%20Algorithm.md)
 
 ### 5. Backpropagation Algorithm.
 <!-- BLOG-POST-LIST:START -->
