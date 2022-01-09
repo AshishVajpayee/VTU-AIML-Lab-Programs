@@ -26,8 +26,8 @@
 
 ### 3. Implement candidate Elimination algorithm.
 <!-- BLOG-POST-LIST:START -->
-- [Click here for Candidate Elimination Algorithm).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/candidateEliminationLab3/CandidateElimination.ipynb)
-- [Candidate Elimination Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/candidateEliminationLab3/CandidateElimination.md)
+- [Click here for Candidate Elimination Algorithm).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/CandidateEliminationLab3/CandidateElimination.ipynb)
+- [Candidate Elimination Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/CandidateEliminationLab3/CandidateElimination.md)
 
 ### 4. Implement ID3 algorithm.
 <!-- BLOG-POST-LIST:START -->
