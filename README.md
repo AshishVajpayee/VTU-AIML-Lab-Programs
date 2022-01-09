@@ -41,8 +41,8 @@
 
 ### 6. Naive Bayesian Classifier Algorithm.
 <!-- BLOG-POST-LIST:START -->
-- [Click here for Backpropagation Algorithm](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/BackPropagationLab4/Backpropagation.ipynb)
-- [ID3 Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/BackPropagationLab4/Backpropagation.md)
+- [Click here for Naive Bayesian Classifier Algorithm](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/NaiveBayesianLab6/NaiveBayesian.ipynb)
+- [Naive Bayesian Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/NaiveBayesianLab6/NaiveBayesian.md)
 
 
 
