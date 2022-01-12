@@ -1,7 +1,7 @@
-# <p align="center">VTU-AI-ML-Lab-Programs-18-scheme</p>
-## <p align="center">AI and ML lab programs VTU 18 Scheme Computer Science and Information Science 7th semester</p>
+# <p align="center">VTU-AI-ML-Lab-Programs-18CSL76-scheme</p>
+## <p align="center">AI and ML lab programs VTU 18 Scheme 18CSL76 Computer Science and Information Science 7th semester</p>
 
-# <p align="center">ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING</p>
+## <p align="center">ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING</p>
 ### <p align="center">LABORATORY</p>
 
 <p align="center">(Effective from the academic year 2018 -2019)</p>
