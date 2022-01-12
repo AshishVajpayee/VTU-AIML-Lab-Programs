@@ -1,7 +1,7 @@
-# <p align="center">VTU-AI-ML-Lab-Programs-18-scheme</p>
-## <p align="center">AI and ML lab programs VTU 18 Scheme Computer Science and Information Science 7th semester</p>
+# <p align="center">VTU-AI-ML-Lab-Programs-18CSL76-scheme</p>
+## <p align="center">AI and ML lab programs VTU 18 Scheme 18CSL76 Computer Science and Information Science 7th semester</p>
 
-# <p align="center">ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING</p>
+## <p align="center">ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING</p>
 ### <p align="center">LABORATORY</p>
 
 <p align="center">(Effective from the academic year 2018 -2019)</p>
@@ -32,17 +32,29 @@
 ### 4. Implement ID3 algorithm.
 <!-- BLOG-POST-LIST:START -->
 - [Click here for ID3 Algorithm(Execute on your Jupyter Notebook or any IDE).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/ID3Lab4/ID3%20Algorithm.ipynb)
-- [ID3 Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/ID3Lab4/ID3%20Algorithm.md)
+- [ID3 Algorithm for Reference.](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/ID3Lab4/ID3%20Algorithm.md)
 
 ### 5. Backpropagation Algorithm.
 <!-- BLOG-POST-LIST:START -->
-- [Click here for Backpropagation Algorithm](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/BackPropagationLab4/Backpropagation.ipynb)
-- [ID3 Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/BackPropagationLab4/Backpropagation.md)
+- [Click here for Backpropagation Algorithm](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/BackPropagationLab5/Backpropagation.ipynb)
+- [ID3 Algorithm for Reference.](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/BackPropagationLab5/Backpropagation.md)
 
 ### 6. Naive Bayesian Classifier Algorithm.
 <!-- BLOG-POST-LIST:START -->
 - [Click here for Naive Bayesian Classifier Algorithm](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/NaiveBayesianLab6/NaiveBayesian.ipynb)
-- [Naive Bayesian Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/NaiveBayesianLab6/NaiveBayesian.md)
+- [Naive Bayesian Algorithm for Reference.](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/NaiveBayesianLab6/NaiveBayesian.md)
+
+### 7. EM Algorithm.
+- [Click here for EM Algorithm](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/EMLab7/EM.ipynb)
+- [EM Algorithm for Reference](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/EMLab7/EM.md)
+
+### 8. KNN Algorithm.
+- [Click here for KNN Algorithm](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/KNNLab8/KNN.ipynb)
+- [KNN Algorithm for Reference](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/KNNLab8/KNN.md)
+
+### 9. Regression Algorithm
+- [Click here for Regression Algorithm](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/RegressionLab9/Regression.ipynb)
+- [Regression Algorithm for Reference](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/RegressionLab9/Regression.md)
 
 
 
