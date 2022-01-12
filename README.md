@@ -32,17 +32,29 @@
 ### 4. Implement ID3 algorithm.
 <!-- BLOG-POST-LIST:START -->
 - [Click here for ID3 Algorithm(Execute on your Jupyter Notebook or any IDE).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/ID3Lab4/ID3%20Algorithm.ipynb)
-- [ID3 Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/ID3Lab4/ID3%20Algorithm.md)
+- [ID3 Algorithm for Reference.](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/ID3Lab4/ID3%20Algorithm.md)
 
 ### 5. Backpropagation Algorithm.
 <!-- BLOG-POST-LIST:START -->
 - [Click here for Backpropagation Algorithm](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/BackPropagationLab4/Backpropagation.ipynb)
-- [ID3 Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/BackPropagationLab4/Backpropagation.md)
+- [ID3 Algorithm for Reference.](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/BackPropagationLab4/Backpropagation.md)
 
 ### 6. Naive Bayesian Classifier Algorithm.
 <!-- BLOG-POST-LIST:START -->
 - [Click here for Naive Bayesian Classifier Algorithm](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/NaiveBayesianLab6/NaiveBayesian.ipynb)
-- [Naive Bayesian Algorithm for Reference).](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/NaiveBayesianLab6/NaiveBayesian.md)
+- [Naive Bayesian Algorithm for Reference.](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/NaiveBayesianLab6/NaiveBayesian.md)
+
+### 7. EM Algorithm.
+- [Click here for EM Algorithm](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/EMLab7/EM.ipynb)
+- [EM Algorithm for Reference](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/EMLab7/EM.md)
+
+### 8. KNN Algorithm.
+- [Click here for KNN Algorithm](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/KNNLab8/KNN.ipynb)
+- [KNN Algorithm for Reference](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/KNNLab8/KNN.md)
+
+### 9. Regression Algorithm
+- [Click here for Regression Algorithm](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/RegressionLab9/Regression.ipynb)
+- [Regression Algorithm for Reference](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/RegressionLab9/Regression.md)
 
 
 
