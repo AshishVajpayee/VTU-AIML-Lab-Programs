@@ -6,65 +6,66 @@
 
 ```python
 import csv
- 
-with open("trainingexample.csv") as f:
+
+with open("trainingexamples.csv") as f:
     csv_file = csv.reader(f)
     data = list(csv_file)
-    
-    s = data[1][:-1]
-    g = [['?' for i in range(len(s))] for j in range(len(s))]
- 
+
+    specific = data[1][:-1]
+    general = [['?' for i in range(len(specific))] for j in range(len(specific))]
+
     for i in data:
         if i[-1] == "Yes":
-            for j in range(len(s)):
-                if i[j] != s[j]:
-                    s[j] = '?'
-                    g[j][j] = '?'
- 
+            for j in range(len(specific)):
+                if i[j] != specific[j]:
+                    specific[j] = "?"
+                    general[j][j] = "?"
+
         elif i[-1] == "No":
-            for j in range(len(s)):
-                if i[j] != s[j]:
-                    g[j][j] = s[j]
+            for j in range(len(specific)):
+                if i[j] != specific[j]:
+                    general[j][j] = specific[j]
                 else:
-                    g[j][j] = "?"
-        print("\nSteps of Candidate Elimination Algorithm", data.index(i)+1)
-        print(s)
-        print(g)
-    gh = []
-    for i in g:
+                    general[j][j] = "?"
+
+        print("\nStep " + str(data.index(i)+1) + " of Candidate Elimination Algorithm")
+        print(specific)
+        print(general)
+
+    gh = [] # gh = general Hypothesis
+    for i in general:
         for j in i:
             if j != '?':
                 gh.append(i)
                 break
-    print("\nFinal specific hypothesis:\n", s)
-    print("\nFinal general hypothesis:\n", gh)
+    print("\nFinal Specific hypothesis:\n", specific)
+    print("\nFinal General hypothesis:\n", gh)
 ```
 
     
-    Steps of Candidate Elimination Algorithm 1
+    Step 1 of Candidate Elimination Algorithm
+    ['Sunny', 'Warm', 'Normal', 'Strong', 'Warm', 'Same']
+    [['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?']]
+    
+    Step 2 of Candidate Elimination Algorithm
+    ['Sunny', 'Warm', 'Normal', 'Strong', 'Warm', 'Same']
+    [['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?']]
+    
+    Step 3 of Candidate Elimination Algorithm
     ['Sunny', 'Warm', '?', 'Strong', 'Warm', 'Same']
     [['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?']]
     
-    Steps of Candidate Elimination Algorithm 2
-    ['Sunny', 'Warm', '?', 'Strong', 'Warm', 'Same']
-    [['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?']]
-    
-    Steps of Candidate Elimination Algorithm 3
+    Step 4 of Candidate Elimination Algorithm
     ['Sunny', 'Warm', '?', 'Strong', 'Warm', 'Same']
     [['Sunny', '?', '?', '?', '?', '?'], ['?', 'Warm', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', 'Same']]
     
-    Steps of Candidate Elimination Algorithm 4
+    Step 5 of Candidate Elimination Algorithm
     ['Sunny', 'Warm', '?', 'Strong', '?', '?']
     [['Sunny', '?', '?', '?', '?', '?'], ['?', 'Warm', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?']]
     
-    Final specific hypothesis:
+    Final Specific hypothesis:
      ['Sunny', 'Warm', '?', 'Strong', '?', '?']
     
-    Final general hypothesis:
+    Final General hypothesis:
      [['Sunny', '?', '?', '?', '?', '?'], ['?', 'Warm', '?', '?', '?', '?']]
     
-
-
-```python
-
-```

@@ -1,4 +1,4 @@
-#### Lab 4: Build an Artificial Neural Network by implementing the Backpropagation algorithm and test the same using appropriate data sets.
+#### Lab 5: Build an Artificial Neural Network by implementing the Backpropagation algorithm and test the same using appropriate data sets.
 
 ##### BACKPROPAGATION (training_example, ƞ, nin, nout, nhidden )
 
