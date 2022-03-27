@@ -37,7 +37,7 @@
 ### 5. Backpropagation Algorithm.
 <!-- BLOG-POST-LIST:START -->
 - [Click here for Backpropagation Algorithm](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/BackPropagationLab5/Backpropagation.ipynb)
-- [ID3 Algorithm for Reference.](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/BackPropagationLab5/Backpropagation.md)
+- [Backpropagation Algorithm Reference.](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/BackPropagationLab5/Backpropagation.md)
 
 ### 6. Naive Bayesian Classifier Algorithm.
 <!-- BLOG-POST-LIST:START -->
