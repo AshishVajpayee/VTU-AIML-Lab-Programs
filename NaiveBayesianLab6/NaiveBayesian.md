@@ -16,12 +16,12 @@ print("The first 5 Values of data is :\n", data.head())
 ```
 
     The first 5 Values of data is :
-         Outlook Temperature Humidity  Windy PlayTennis
-    0     Sunny         Hot     High  False         No
-    1     Sunny         Hot     High   True         No
-    2  Overcast         Hot     High  False        Yes
-    3     Rainy        Mild     High  False        Yes
-    4     Rainy        Cool   Normal  False        Yes
+         Outlook Temperature Humidity   Windy PlayTennis
+    0     Sunny         Hot     High    Weak         No
+    1     Sunny         Hot     High  Strong         No
+    2  Overcast         Hot     High    Weak        Yes
+    3      Rain        Mild     High    Weak        Yes
+    4      Rain        Cool   Normal    Weak        Yes
     
 
 
@@ -33,12 +33,12 @@ print("\nThe First 5 values of the train data is\n", X.head())
 
     
     The First 5 values of the train data is
-         Outlook Temperature Humidity  Windy
-    0     Sunny         Hot     High  False
-    1     Sunny         Hot     High   True
-    2  Overcast         Hot     High  False
-    3     Rainy        Mild     High  False
-    4     Rainy        Cool   Normal  False
+         Outlook Temperature Humidity   Windy
+    0     Sunny         Hot     High    Weak
+    1     Sunny         Hot     High  Strong
+    2  Overcast         Hot     High    Weak
+    3      Rain        Mild     High    Weak
+    4      Rain        Cool   Normal    Weak
     
 
 
@@ -78,11 +78,19 @@ print("\nNow the Train output is\n", X.head())
     
     Now the Train output is
         Outlook  Temperature  Humidity  Windy
-    0        2            1         0      0
-    1        2            1         0      1
-    2        0            1         0      0
-    3        1            2         0      0
-    4        1            0         1      0
+    0        2            1         0      1
+    1        2            1         0      0
+    2        0            1         0      1
+    3        1            2         0      1
+    4        1            0         1      1
+    
+
+    C:\Users\Ashishvajpayee\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py:5516: SettingWithCopyWarning: 
+    A value is trying to be set on a copy of a slice from a DataFrame.
+    Try using .loc[row_indexer,col_indexer] = value instead
+    
+    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+      self[name] = value
     
 
 
@@ -94,7 +102,7 @@ print("\nNow the Train output is\n",y)
 
     
     Now the Train output is
-     [0 0 1 1 1]
+     [0 0 1 1 1 0 1 0 1 1 1 1 1 0]
     
 
 
@@ -109,5 +117,5 @@ from sklearn.metrics import accuracy_score
 print("Accuracy is:", accuracy_score(classifier.predict(X_test), y_test))
 ```
 
-    Accuracy is: 1.0
+    Accuracy is: 0.3333333333333333
     
